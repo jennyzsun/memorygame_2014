@@ -9,4 +9,4 @@ The goal of Genius Hour was for the students of ICTP 12 to self-learn and discov
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-To run the program, download MemoryGame.jar (go to https://github.com/jennyzsun/memorygame_2014/blob/master/MemoryGame.jar and click "View Raw.") and open the file.
+To run the program, download MemoryGame.jar (go to https://github.com/jennyzsun/memorygame_2014/blob/master/MemoryGame.jar and click "View Raw") and open the file.
