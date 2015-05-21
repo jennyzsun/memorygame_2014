@@ -1,5 +1,5 @@
 # memorygame_2014
-ICTP12: Introduction to Computer Programming 12 Final Project created by Jenny Sun, Lucy Wei, and Marilyn Sun
+ICTP12: Introduction to Computer Programming 12 Genius Hour Project created by Jenny Sun, Lucy Wei, and Marilyn Sun
 
 ------------------------------------------------------------------------------------------------------------------------------
 
