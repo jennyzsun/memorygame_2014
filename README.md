@@ -5,7 +5,7 @@ ICTP12: Introduction to Computer Programming 12 Genius Hour Project created by J
 
 Memory Game was created as a Genius Hour project by Jenny Sun, Marilyn Sun, and Lucy Wei in an Introduction to Computer Programming (ICTP) 12 class. 
 
-The goal of Genius Hour was for the students of ICTP 12 to self-learn and discover a topic of our choice relating to the class curriculum. Since Java was the core topic of ICTP 12, my team and I decided to further explore the capabilities of Java by creating a fully-functional, interactive while using the NetBeans 8.0 IDE. 
+The goal of Genius Hour was for the students of ICTP 12 to self-learn and discover a topic of our choice relating to the class curriculum. Since Java was the core topic of ICTP 12, my team and I decided to further explore the capabilities of Java by creating a fully-functional, interactive game while using the NetBeans 8.0 IDE. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 **To Run Program Only** </br>
